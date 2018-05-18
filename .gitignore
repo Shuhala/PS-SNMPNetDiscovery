@@ -1,0 +1,5 @@
+.vs
+.idea
+Makefile
+SnmpNetDiscoveryLib/bin
+SnmpNetDiscoveryLib/obj
